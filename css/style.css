@@ -179,7 +179,7 @@ body {
 
 /*================ Milhouse-banner  Section ================*/
 .banner {
-    /*background: url("https://Mil-House.github.io/Mil-House/img/imagemedium.jpg");*/
+    background: url("https://Mil-House.github.io/Mil-House/img/imagemedium.jpg");
     margin-top: 4.3rem; /*4.4 rem*/
     background-color: #1b1b1b;
 
@@ -312,9 +312,6 @@ body {
     }
     75%{
         background-image: url("https://Mil-House.github.io/Mil-House/img/imagemedium6.jpg");
-    }
-    100%{
-        background-image: url("https://Mil-House.github.io/Mil-House/img/imagemedium.jpg");
     }
 }
 
